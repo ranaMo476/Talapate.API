@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\bin\Debug\net6.0\Talabat.Services.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\bin\Debug\net6.0\Talabat.Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\bin\Debug\net6.0\Talabat.Services.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\refint\Talabat.Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\Talabat.Services.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\Talabat.Soluation\Talabat.Services\obj\Debug\net6.0\ref\Talabat.Services.dll
